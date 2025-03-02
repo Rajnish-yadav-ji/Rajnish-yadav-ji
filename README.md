@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rajnish Yadav</h1>
-<h3 align="center">A passionate web developer and learner from India</h3>
+<h1>Hi 👋, I'm Rajnish Yadav</h1>
+<h3>A passionate web developer and learner from India. I am passionate about building web applications from scratch and continuously learning new technologies. Currently mastering MERN stack, with a goal to become a full-stack developer. I believe in writing clean, efficient code and improving with every project.</h3>
 
 
 
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ### 🛠️ **Tech Stack**
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
