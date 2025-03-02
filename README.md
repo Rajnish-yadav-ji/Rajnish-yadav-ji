@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
----
+
 ### 🤝 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajnish-yadav-868556262/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rajnish-yadav-ji)
