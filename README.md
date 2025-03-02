@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rajnish Yadav</h1>
 <h3 align="center">A passionate web developer and learner from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **MERN Stack & Ethical Hacking**
+
+- 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Web Development, React, JavaScript**
 - 📫 How to reach me **rajnishyadavji999@gmail.com**
 
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rajnish-yadav-ji&theme=dark)
 
+---
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 ### 🤝 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajnish-yadav-868556262/)
